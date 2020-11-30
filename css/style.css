@@ -1,0 +1,44 @@
+/* #movies img, #movie img{
+    width: 100%;
+}
+
+@media(min-width: 960px){
+    #movies .col-md-3 .well{
+        height: 390px;
+    }
+
+    #movies .col-md-3 img{
+        height: 240px;
+    }
+} */
+
+h1 {
+    font-size: 6em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  
+  }
+
+a{
+    color: rgb(250, 44, 44);
+}
+  
+  body {
+    text-align: center;
+    background-color: black;
+  }
+  
+  #box {
+    padding-top: 50px;
+  }
+  
+  #box2 {
+    padding-bottom: 50px;
+  }
+  
+  #description {
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
